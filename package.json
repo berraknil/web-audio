@@ -1,0 +1,22 @@
+{
+  "name": "web-audio",
+  "version": "1.0.0",
+  "description": "Tutorials and Things about Web Audio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berraknil/web-audio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berraknil/web-audio/issues"
+  },
+  "homepage": "https://github.com/berraknil/web-audio#readme",
+  "devDependencies": {
+    "eslint": "^3.15.0"
+  }
+}
